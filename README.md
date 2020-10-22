@@ -1,1 +1,1 @@
-# Native_State
+# Scripts for WIP game Native State
